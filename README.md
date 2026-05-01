@@ -73,6 +73,12 @@ Dataset de atletas olímpicos con variables clave:
 ### Medallas por deporte
 ![Medallas por deporte](outputs/graficos/medallas_deporte.png)
 
+
+
+
+
+
+
 ### Relación peso vs medallas
 ![Entrenamiento vs Medallas](outputs/graficos/scatter_peso_medallas.png)
 
@@ -153,7 +159,7 @@ olympic-analysis/
 
 ## ▶️ Cómo ejecutar el proyecto
 ```bash
-git clone https://github.com/IsaUrdaneta/olympic-analysis.git
+git clone https://github.com/IsaUrdaneta/olimpicos-analisis.git
 cd olympic-analysis
 
 python -m venv venv
