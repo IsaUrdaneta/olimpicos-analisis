@@ -1,0 +1,5 @@
+
+Promedio medallas: 6.17
+Deporte más frecuente: Atletismo
+Correlación entrenamiento-medallas: 0.55
+R2 modelo: -1602.7715
